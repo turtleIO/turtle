@@ -12,3 +12,5 @@ On-device AI Assistant to work with vision & text based language models for gett
 - [ ] Vision &/DOM based control of accessing websites
 
 - [ ] Add OpenCL support
+
+- [ ] Whisper & TTS support
