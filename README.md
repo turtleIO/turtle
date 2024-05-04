@@ -8,7 +8,7 @@ Get more from devices that you already own!<br><br>
 
 <br> 
 
-<img src="turtle-dave2d-ref.png" width="30%" border-radius="50%" />
+<img src="turtle-dave2d-ref.png" width="50%" />
 
 ### Goals
 
