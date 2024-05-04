@@ -1,9 +1,17 @@
 # turtle 🐢
 
-On-device AI Assistant to work with vision & text based language models for getting more from devices that you already own!
+<p align="center">
+On-device AI Assistant to work with vision & text based language models for getting more from devices that you already own!<br><br>
+
+> "This should be an app" - Dave2D
+
+<br> 
+
+<img src="turtle-dave2d-ref.png" width="50%" border-radius="50%" />
+</p>
 
 
-## Goals
+### Goals
 
 - [ ] Incorporate Moondream2 with Llama.cpp's Android example
 
