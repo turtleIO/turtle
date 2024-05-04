@@ -1,15 +1,14 @@
 # turtle 🐢
 
-<p align="center">
-On-device AI Assistant to work with vision & text based language models for getting more from devices that you already own!<br><br>
+On-device AI Assistant to work with vision & text based language models.
+  
+Get more from devices that you already own!<br><br>
 
 > "This should be an app" - Dave2D
 
 <br> 
 
-<img src="turtle-dave2d-ref.png" width="50%" border-radius="50%" />
-</p>
-
+<img src="turtle-dave2d-ref.png" width="30%" border-radius="50%" />
 
 ### Goals
 
